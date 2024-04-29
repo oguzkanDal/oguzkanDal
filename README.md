@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oguzkanDal
-- 👀 I’m interested in C# programming - Microsoft Dynamics Developer / CE
-- 🌱 I’m currently learning 
+- 👀 I’m interested in C# programming - Microsoft Dynamics 365 functional consultant / CE
+- 🌱 I’m currently improving myself
 - 💞️ I’m looking to collaborate on Dynamics 365 developers
 - 📫 How to reach me ...  https://www.linkedin.com/in/oguz-dal-887bb3244/
 
