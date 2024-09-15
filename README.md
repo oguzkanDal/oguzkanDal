@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oguzkanDal
-- 👀 I’m interested SAP MM 
+- 👀 I’m interested SAP S/4 HANA MM 
 - 🌱 I’m currently improving myself
 - 💞️ I’m looking to collaborate on SAP MM Consultants
 - 📫 How to reach me ...  https://www.linkedin.com/in/oguz-dal-887bb3244/
